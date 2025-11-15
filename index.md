@@ -1,9 +1,12 @@
 ---
-title: Welcome to my blog
+Welcome to my blog
 ---
 
-11/14/25 The creation of this blog
---------------------------------
-My goal is to document the things I have been working on in statistics/data science.
+Posts
+
+About the author:
+---
+
+Quentin Jenkins is a student at BYU studying applied statistics and analytics. He is from Kaysville Utah and enjoys sports such as soccer and pickleball. He has done research about air pollution and pickleball.
 
 
